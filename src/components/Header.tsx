@@ -50,7 +50,7 @@ export default function Header() {
                 {
                   icon: Mail,
                   href: "mailto:theshivammaheshwari@gmail.com",
-                  text: "Email"
+                  text: "theshivammaheshwari@gmail.com"
                 },
                 {
                   icon: Phone,
