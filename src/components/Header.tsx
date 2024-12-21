@@ -64,7 +64,7 @@ export default function Header() {
                 },
                 {
                   icon: Github,
-                  href: "https://github.com/yourusername",
+                  href: "https://github.com/theshivammaheshwari",
                   text: "GitHub"
                 }
               ].map(({ icon: Icon, href, text }, index) => (
