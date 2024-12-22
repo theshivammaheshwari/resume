@@ -19,7 +19,7 @@ export default function Header() {
             className="relative"
           >
             <img
-    src="/photo.jpg" // Use '/photo.jpg' if your image is in the public folder
+    src="/shivam.jpg" // Use '/photo.jpg' if your image is in the public folder
     alt="Shivam Maheshwari"
     className="w-40 h-40 rounded-full object-cover shadow-lg"
   />
