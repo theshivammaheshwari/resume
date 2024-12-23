@@ -22,10 +22,9 @@ const experiences = [
     period: "08/2021 - 08/2022",
     type: "Full-time",
     description: [
-      "Project management and procurement",
-      "Technical issue resolution",
-      "Shell script development",
-      "Documentation support"
+      "I contribute to various project-related tasks, including procurement, resolving technical issues, and addressing evolving requirements.",
+      "I develop on-the-fly shell scripts to provide immediate solutions for system-related challenges and assist technical staff in preparing program documentation.",
+    
     ]
   },
   {
