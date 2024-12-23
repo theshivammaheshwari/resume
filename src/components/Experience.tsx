@@ -10,10 +10,10 @@ const experiences = [
     period: "09/2022 - 12/2024",
     type: "Part-time",
     description: [
-      "Skilled in log and error analysis for troubleshooting",
-      "Experience with Jira, Confluence, and Remedy Ticketing",
-      "Proficient in Zabbix monitoring and KQL",
-      "Automation using Python and Bash scripts"
+      "Skilled in log and error analysis to troubleshoot issues, coupled with internal IT support to ensure smooth operations. Providing technical support through collaboration tools and platforms.",
+      "Hands-on experience with tools like Jira, Confluence, Atlassian Suite, and Remedy Ticketing for effective team collaboration and incident management.",
+      "Skilled in using Zabbix for proactive monitoring and employing Kibana Query Language (KQL) for advanced log analysis and troubleshooting.",
+      "Proficient in developing automation scripts using Python and Bash to streamline and optimize IT operations."
     ]
   },
   {
