@@ -4,7 +4,7 @@ import { useInView } from 'react-intersection-observer';
 import { Briefcase } from 'lucide-react';
 
 const experiences = [
-  {
+/*  {
     title: "Infrastructure & Support Engineer",
     company: "Zentity a.s.",
     period: "09/2022 - 12/2024",
@@ -15,7 +15,7 @@ const experiences = [
       "Skilled in using Zabbix for proactive monitoring and employing Kibana Query Language (KQL) for advanced log analysis and troubleshooting.",
       "Proficient in developing automation scripts using Python and Bash to streamline and optimize IT operations."
     ]
-  },
+  }, */
   {
     title: "Technical Superintendent",
     company: "The LNM Institute of Information Technology",
